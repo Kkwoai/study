@@ -84552,7 +84552,7 @@
                                 case 0:
                                     return n = "__suggest",
                                     i = [11, 86, 87, 71, 72, 81, 41, 31, 33],
-                                    r = "http://suggest3.sinajs.cn/suggest/?key=" + t.toLowerCase() + "&type=" + i.join(",") + "&name=" + n + "&num=50",
+                                    r = "https://suggest3.sinajs.cn/suggest/?key=" + t.toLowerCase() + "&type=" + i.join(",") + "&name=" + n + "&num=50",
                                     // r = "//suggest3.sinajs.cn/suggest/?key=" + t.toLowerCase() + "&type=" + i.join(",") + "&name=" + n + "&num=50",
                                     e.next = 5,
                                     It(r);
